@@ -1,3 +1,8 @@
+**NOTE:** *This product has been retired from our catalog. If you are looking for more up-to-date info, please check out some of these resources to see how other users are still hacking and improving on this product.*
+* *[SparkFun Forum](https://forum.sparkfun.com/)*
+* *[Comments Here on GitHub](https://github.com/sparkfun/GP-2106_Breakout/issues)*
+* *[IRC Channel](https://www.sparkfun.com/news/263)*
+
 SparkFun GP-2106 Breakout
 ========================================
 
@@ -5,7 +10,7 @@ SparkFun GP-2106 Breakout
 
 [*SparkFun GP-2106 Breakout (GPS-11073)*](https://www.sparkfun.com/products/11073)
 
-This breakout board gives you access to the little tiny pins on the ribbon connector for the, also tiny, GP-2106 GPS module. All six pins are broken out to standard 0.1" headers. 
+This breakout board gives you access to the little tiny pins on the ribbon connector for the, also tiny, [GP-2106 GPS module](https://www.sparkfun.com/products/retired/10890). All six pins are broken out to standard 0.1" headers. 
 Keep in mind the GP-2106 runs on 1.8V and uses 1.8V logic levels.
 
 Repository Contents
